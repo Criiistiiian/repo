@@ -8,7 +8,7 @@ Este proyecto aplica técnicas de Aprendizaje Automático supervisado para prede
 
 Estructura del Proyecto
 
-```bash
+
 .
 ├── cuadernos/
 │   └── Cristian-Ortiz (1).ipynb        # Notebook principal del análisis
@@ -19,10 +19,28 @@ Estructura del Proyecto
 ├── modelos/                                          # (opcional) Modelos entrenados exportados
 │
 ├── informes/
-│   ├── presentacion_CristianOrtiz.mp4               # Video explicativo del proyecto
-│   ├── Enlacedevideo.txt                            # Presentación
+│   ├── Enlacedevideo.txt                            # Video explicativo del proyecto
+│   ├── 1ra presentacion.pdf                         # Refencia de proyecto                                             
 │   └── 
 │
-├── referencias/1ra presentacion.pdf                  # Bibliografía y fuentes externas
+├── referencias/                                      # Bibliografía y fuentes externas
+│   └── Curso: Aprendizaje Automático – Malvinas Politécnicas Argentinas
+│   └── https://scikit-learn.org/
+│   └── https://pandas.pydata.org/         
 ├── requisitos.txt                                    # Dependencias del proyecto
 ├── README.md                                         # Este archivo
+
+
+
+
+Librerías: pandas, scikit-learn, matplotlib, seaborn
+
+Documentación:
+
+https://scikit-learn.org/
+
+https://pandas.pydata.org/
+"""
+
+
+
