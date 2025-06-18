@@ -8,7 +8,7 @@ Este proyecto aplica técnicas de Aprendizaje Automático supervisado para prede
 
 Estructura del Proyecto
 
-
+```bash
 .
 ├── cuadernos/
 │   └── Cristian-Ortiz (1).ipynb        # Notebook principal del análisis
