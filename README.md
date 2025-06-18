@@ -33,14 +33,4 @@ Estructura del Proyecto
 
 
 
-Librerías: pandas, scikit-learn, matplotlib, seaborn
-
-Documentación:
-
-https://scikit-learn.org/
-
-https://pandas.pydata.org/
-"""
-
-
 
